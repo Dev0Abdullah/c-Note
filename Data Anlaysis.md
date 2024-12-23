@@ -24,15 +24,20 @@ System Analysis is the study of business problem domain to recommend improvement
 # Static System Models ?
 ده خاص ب المقارنه بين اي حاجه مع الوقت
 # Types of Information Systems ?
-1-Transaction Processing Systems (TPS)
+1-Transaction Processing Systems (TPS) :
+
 ده خاص ب المعاملات بتاعت السيستم كلو
-2-Management Information System (MIS)
+2-Management Information System (MIS) :
+
 بياخد معلومات النظام ويقدمها كتقارير
-3-Decision Support Systems (DSS)
+3-Decision Support Systems (DSS) :
+
 خاص بأي قرار في السيستم
-4-Expert Systems
+4-Expert Systems : 
+
 ده العقل او المشوره او الاستشارات بتاعت النظام 
-# System ?
+# System ? :
+
 هو بيحول البينات اللي بتخشله لمعلومات ولكن بتتضمن كام حاجه وهما الاحهزه وبرامج النظام التوثيق ومواد التدريب الادورار بتاعت وظايف النظام ضوابط منع السرقه والاحتيال الناس اللي بتستخدم النظام كل ده بيتضمن السيستم اثناء تصديره للمعلومه 
 # Characteristics of a System ?
 Components
