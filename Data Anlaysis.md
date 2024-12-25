@@ -68,4 +68,4 @@ Output
 # Chapter (3) ?
 [شرح ال circle path ](https://youtu.be/fAiV6gsLBkw?si=REgMF8yRGJW0p4Mg) 
 والباقي عباره عن ال planing فقط 
-كل اللي مطلوب انك تحل كل الاسأله وبس .
+كل اللي مطلوب انك تحل كل الاسأله وبس 
