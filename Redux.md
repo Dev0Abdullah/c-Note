@@ -74,7 +74,7 @@ We import the following hooks from react-redux, useSelector and useDispatch. Bef
 The equivalent of map state to props is useSelector. It takes in a function argument that returns the part of the state that you want. In this case, we have the following keys from state defined, counter and currentUser. We defined these earlier when combining reducers.
 
 **useDispatch**
-The equivalent of map dispatch to props is useDispatch. We will invoke useDispatch and store it to a variable, dispatch. Dispatch will work with the allActions imported from the actions folder. For example, useEffect calls a dispatch with the following action, allActions.userActions.setUser(user). User is defined as:
+The equivalent of map dispatch to props is useDispatch. We will invoke useDispatch and store it to a variable, dispatch. Dispatch will work with the allActions imported from the actions folder. For example, useEffect calls a dispatch with the following action, allActions.userActions.setUser(user). User is defined as
 
 ![code](https://github.com/user-attachments/assets/6ea6321f-4556-4939-9608-68c73a94e362)
 
